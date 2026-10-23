@@ -1,11 +1,10 @@
-# Patience Phakathi
-### ICT Graduate | Software Developer
-
 <p align="center">
   <img src="assets/profile-banner-short.png"
        alt="Patience Phakathi — ICT Graduate and Software Developer"
        width="100%">
 </p>
+
+### ICT Graduate | Software Developer
 
 ## About Me
 
