@@ -4,8 +4,6 @@
        width="100%">
 </p>
 
-### ICT Graduate | Software Developer
-
 ## About Me
 
 I'm an ICT: Application Development graduate with a passion for software development, problem-solving, and technology-driven innovation.
