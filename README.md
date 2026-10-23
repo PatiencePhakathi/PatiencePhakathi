@@ -2,10 +2,9 @@
 ### ICT Graduate | Software Developer
 
 <p align="center">
-  <img src="assets/profile-banner.png"
+  <img src="assets/profile-banner-short.png"
        alt="Patience Phakathi — ICT Graduate and Software Developer"
-       width="100%"
-       height="200">
+       width="100%">
 </p>
 
 ## About Me
