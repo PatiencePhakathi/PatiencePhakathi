@@ -2,15 +2,15 @@
 ### ICT Graduate | Software Developer
 
 <p align="center">
-  <img src="images/profile-banner.png" alt="Patience Phakathi — ICT Graduate and Software Developer" width="100%">
+  <img src="assets/profile-banner.png" alt="Patience Phakathi — ICT Graduate and Software Developer" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patience-phakathi-336bb8233/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/PatiencePhakathi?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories">
   </a>
 </p>
 
